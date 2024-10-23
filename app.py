@@ -23,7 +23,7 @@ def get_db_connection():
     
     db_name = "gym_db"
     user = "root"
-    password = "Caljohns2005$18#5"
+    password = "password"
     host = "127.0.0.1"
 
     try:
